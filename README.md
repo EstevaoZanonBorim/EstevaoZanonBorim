@@ -1,13 +1,10 @@
-# Experimental
-
-
 # Olá, eu sou o Estevão! 👋
 
-### 👨‍💻 Desenvolvedor de Software | Entusiasta do Mercado Financeiro
+### 👨‍💻 Desenvolvedor de Software
 
 Sou estudante do último ano de **Análise e Desenvolvimento de Sistemas** e atualmente moro em **Ribeirão Preto, SP**.
 
-Meu foco atual é a transição de carreira para o setor financeiro, combinando minha base técnica com meu interesse de longa data por investimentos e economia. Busco oportunidades onde eu possa aplicar tecnologia para resolver problemas complexos de negócios.
+Meu foco atual é aprofundar meus conhecimentos em infraestrutura e banco de dados, buscando oportunidades onde eu possa aplicar minha base técnica para desenvolver soluções tecnológicas eficientes e resolver problemas complexos de negócios.
 
 ---
 
@@ -25,20 +22,15 @@ Tenho focado meus estudos e projetos principalmente nestas linguagens:
 <br/>
 
 ### 🔭 No que estou trabalhando
-- Aprofundando conhecimentos em **C# (.NET)** para aplicações corporativas.
-- Explorando **Python** para análise de dados e automação.
-- Estudando a aplicação de tecnologia no **Mercado Financeiro**.
+- Estudando **SQL Server**.
+- Aprofundando conhecimentos em **C# (.NET)**.
+- Explorando **Python**.
 
-### ⚡ Fatos sobre mim
-- 🎻 Nas horas vagas, estudo **violoncelo**.
-- 🎮 Gosto de relaxar jogando (especialmente RPGs desafiadores como Elden Ring).
-- 📚 Estou sempre aprimorando meu inglês técnico.
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zanonborim@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstevaoZanonBorim&show_icons=true&theme=dracula)
